@@ -1,0 +1,2 @@
+# Just-Enough-Items-JEI---Mods-
+Just Enough Items mod is primarily an item and recipe viewing mod for Minecraft, with a strong emphasis on reliability, efficiency, and, most importantly, ease of use. It appears to be somewhat close to Not Enough Things, a well-known song. This mod is practically synonymous with a lack of products. And these mods have a lot in common in terms of architecture and functionality, which is hug
